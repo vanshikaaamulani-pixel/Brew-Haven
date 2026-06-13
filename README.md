@@ -23,4 +23,4 @@ Fully responsive layout
 - Menu section
 - Testimonials section
 - Gallery section
-- and many more exciting features~~
+- and many more exciting features~
